@@ -2,7 +2,7 @@
 
 ## about me
 
-I'm a Master's student at the [Technical University of Munich (TUM)](https://www.tum.de) studying Information Systems — where design, engineering, and product thinking meet. I love building things that are actually useful and easy to use.
+I'm a Master's student at the [Technical University of Munich (TUM)](https://www.tum.de) studying Information Systems. Here design, engineering, and product thinking meet. I love building things that are actually useful and easy to use.
 
 - 🎓 M.Sc. Information Systems @ [![TUM](https://img.shields.io/badge/TUM-Technical_University_of_Munich-0065BD?style=flat&logoColor=white)](https://www.tum.de)
 - 📱 Built the **TUM Trust Center App** — live on the App Store, used for 10%+ of all TUM document signings
@@ -29,13 +29,6 @@ I'm a Master's student at the [Technical University of Munich (TUM)](https://www
 
 ---
 
-## 📊 github stats
-
-[![Iuliia's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuliia-mikhailova&show_icons=true&theme=tokyonight&hide_border=true&title_color=F97CE8&icon_color=F97CE8)](https://github.com/iuliia-mikhailova)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iuliia-mikhailova&layout=compact&theme=tokyonight&hide_border=true&title_color=F97CE8)](https://github.com/iuliia-mikhailova)
-
----
 
 ## 📬 get in touch
 
