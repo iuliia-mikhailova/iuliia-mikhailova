@@ -5,9 +5,9 @@
 I'm a Master's student at the [Technical University of Munich (TUM)](https://www.tum.de) studying Information Systems. Here design, engineering, and product thinking meet. I love building things that are actually useful and easy to use.
 
 - 🎓 B.Sc. Information Systems
-- 📱 Built the **TUM Trust Center App** — live on the App Store, used for 10%+ of all TUM document signings
+- 📱 Built the **TUM Trust Center App** — live on the [App Store](https://apps.apple.com/de/app/tum-trust-center/id6739583554?l=en-GB), used for 10%+ of all TUM document signings
 - 🔐 Researched & designed the **EUDI Wallet** interface — presented findings to Germany's federal cybersecurity authority (BSI)
-- 🏆 **Deutschlandstipendium** scholar — selected as one of 100 CS students across Germany for the **Amazon Future Engineer Program**
+- 🏆 **Deutschlandstipendium** scholar (backed by TUM & AWS) — selected as one of 100 CS students across Germany for the **Amazon Future Engineer Program**
 - ⚙️ Currently working at **UnternehmerTUM**, automating workflows and keeping things running smoothly
 
 ---
