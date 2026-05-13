@@ -2,7 +2,7 @@
 
 ## 👩‍💻 about me
 
-I'm a Master's student at the [Technical University of Munich (TUM)](https://www.tum.de) studying Information Systems. Here design, engineering, and product thinking meet. Love building things that are actually useful.
+I'm a Master's student at the [Technical University of Munich (TUM)](https://www.tum.de) studying Information Systems. Love building things that are actually useful.
 
 - 🎓 M.Sc. Information Systems
 - 📱 Built the **TUM Trust Center App** — live on the [App Store](https://apps.apple.com/de/app/tum-trust-center/id6739583554?l=en-GB), used for 10%+ of all TUM document signings
